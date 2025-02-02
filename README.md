@@ -1,13 +1,13 @@
 Low-Profile GE4C Bowden Tube Passthrough for 3 mm Panels
 ========================================================
 
-***Compact GE4C bearing filament passthrough, maximizing range of motion with a minimalist, heat-set-insert design.***
+This is a from-scratch redesign of ["PTFE/Bowden Tube Passthrough with GE4C Spherical Bearing" by Mark Norris](https://www.printables.com/model/795052-ptfebowden-tube-passthrough-with-ge4c-spherical-be). It retains the same footprint and hole spacing for full compatibility while introducing key improvements.
 
-- https://www.printables.com/model/1174655-low-profile-ge4c-bowden-tube-passthrough-for-3mm-p
+[View on Printables](https://www.printables.com/model/1174655-low-profile-ge4c-bowden-tube-passthrough-for-3mm-p)
 
-## Introduction
-
-This is a from-scratch redesign of the ["PTFE/Bowden Tube Passthrough with GE4C Spherical Bearing"](https://www.printables.com/model/795052-ptfebowden-tube-passthrough-with-ge4c-spherical-be) by [Mark Norris](https://www.printables.com/@MarkNorris_954447). It retains the same footprint and hole spacing for full compatibility while introducing key improvements.
+![Top View](./Images/Top.jpg)
+![Bottom View](./Images/Bottom.jpg)
+![Panel Bearing Fit](./Images/PanelBearingFit.jpg)
 
 ## Design Goals
 
